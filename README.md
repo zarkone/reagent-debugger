@@ -1,6 +1,6 @@
 # reagent-debugger
 
-Send variables from failed fns in browser
+Send variables from failed fns to browser
 
 ## Development Mode
 
